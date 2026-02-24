@@ -18,3 +18,6 @@ A git conflict happens when two people edit the same part of a file and Git cann
 ## Reflection
 
 From the class simulation, I learned that communication is very important when working in teams. Conflicts happen when people change the same code, so it is important to review changes carefully before merging.
+## Why Git Conflicts Happen
+
+Git conflicts usually happen when multiple developers work on the same file or branch at the same time without pulling the latest changes.
